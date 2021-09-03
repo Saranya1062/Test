@@ -3,6 +3,6 @@ package com.sf;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("enter your name");
+        System.out.println("enter your name:");
     }
 }
